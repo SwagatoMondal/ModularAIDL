@@ -1,0 +1,1 @@
+include ':modulea', ':moduleb', ':app'
