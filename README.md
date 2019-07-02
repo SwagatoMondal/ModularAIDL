@@ -4,3 +4,6 @@ But the requirement is that both should be shipped separately as modular SDK. Th
 
 Check ModuleA which declares the dependent class.
 Check ModuleB which uses ModuleA when called.
+
+## Android Documentation Referred
+https://developer.android.com/guide/components/aidl#java
